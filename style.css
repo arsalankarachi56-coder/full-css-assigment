@@ -1,0 +1,36 @@
+.heading1{
+    color: red;
+    margin: 20px;
+    font-size: 20px;
+}
+.heading2{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    text-align: center;
+    color: black;
+    margin: -70px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.search input{
+    height: 50px;
+    width: 450px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.cards{
+
+    display: inline-block;
+    margin: 20px 10px 20px 10px ;
+}
+.cards img{
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
